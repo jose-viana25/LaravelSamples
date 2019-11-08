@@ -1,0 +1,2 @@
+# LaravelSamples
+Samples in Laravel
